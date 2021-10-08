@@ -1,0 +1,178 @@
+﻿country;region;CPI
+Denmark;EU;91
+New Zealand;AP;91
+Finland;EU;89
+Sweden;EU;89
+Norway;EU;86
+Singapore;AP;86
+Switzerland;EU;85
+Netherlands;EU;83
+Australia;AP;81
+Canada;AM;81
+Luxembourg;EU;80
+Germany;EU;78
+Iceland;EU;78
+United Kingdom;EU;76
+Barbados;AM;75
+Belgium;EU;75
+Hong Kong;AP;75
+Japan;AP;74
+Uruguay;AM;73
+United States;AM;73
+Ireland;EU;72
+Bahamas;AM;71
+Chile;AM;71
+France;EU;71
+Saint Lucia;AM;71
+Austria;EU;69
+United Arab Emirates;ME;69
+Estonia;EU;68
+Qatar;ME;68
+Botswana;AF;64
+Bhutan;AP;63
+Cyprus;EU;63
+Portugal;EU;62
+Puerto Rico;AM;62
+Saint Vincent and the Grenadines;AM;62
+Israel;ME;61
+Taiwan;AP;61
+Brunei;AP;60
+Poland;EU;60
+Spain;EU;59
+Cape Verde;AF;58
+Dominica;AM;58
+Lithuania;EU;57
+Slovenia;EU;57
+Malta;EU;56
+Korea (South);AP;55
+Hungary;EU;54
+Seychelles;AF;54
+Costa Rica;AM;53
+Latvia;EU;53
+Rwanda;AF;53
+Mauritius;AF;52
+Malaysia;AP;50
+Turkey;EE;50
+Georgia;EE;49
+Lesotho;AF;49
+Bahrain;ME;48
+Croatia;EU;48
+Czech Republic;EU;48
+Namibia;AF;48
+Oman;ME;47
+Slovakia;EU;47
+Cuba;AM;46
+Ghana;AF;46
+Saudi Arabia;ME;46
+Jordan;ME;45
+Macedonia;EE;44
+Montenegro;EE;44
+Italy;EU;43
+Kuwait;ME;43
+Romania;EU;43
+Bosnia and Herzegovina;EE;42
+Brazil;AM;42
+Sao Tome and Principe;AF;42
+Serbia;EE;42
+South Africa;AF;42
+Bulgaria;EU;41
+Senegal;AF;41
+Tunisia;ME;41
+China;AP;40
+Greece;EU;40
+Swaziland;AF;39
+Burkina Faso;AF;38
+El Salvador;AM;38
+Jamaica;AM;38
+Liberia;AF;38
+Mongolia;AP;38
+Peru;AM;38
+Trinidad and Tobago;AM;38
+Zambia;AF;38
+Malawi;AF;37
+Morocco;ME;37
+Sri Lanka;AP;37
+Algeria;ME;36
+Armenia;EE;36
+Benin;AF;36
+Colombia;AM;36
+Djibouti;AF;36
+India;AP;36
+Philippines;AP;36
+Suriname;AM;36
+Ecuador;AM;35
+Moldova;EE;35
+Panama;AM;35
+Thailand;AP;35
+Argentina;AM;34
+Bolivia;AM;34
+Gabon;AF;34
+Mexico;AM;34
+Niger;AF;34
+Ethiopia;AF;33
+Kosovo;EE;33
+Tanzania;AF;33
+Egypt;ME;32
+Indonesia;AP;32
+Albania;EE;31
+Nepal;AP;31
+Vietnam;AP;31
+Mauritania;AF;30
+Mozambique;AF;30
+Sierra Leone;AF;30
+Timor-Leste;AP;30
+Belarus;EE;29
+Dominican Republic;AM;29
+Guatemala;AM;29
+Togo;AF;29
+Azerbaijan;EE;28
+Comoros;AF;28
+Gambia;AF;28
+Lebanon;ME;28
+Madagascar;AF;28
+Mali;AF;28
+Nicaragua;AM;28
+Pakistan;AP;28
+Russia;EE;28
+Bangladesh;AP;27
+Côte d´Ivoire;AF;27
+Guyana;AM;27
+Kenya;AF;27
+Honduras;AM;26
+Kazakhstan;EE;26
+Laos;AP;26
+Uganda;AF;26
+Cameroon;AF;25
+Central African Republic;AF;25
+Iran;ME;25
+Nigeria;AF;25
+Papua New Guinea;AP;25
+Ukraine;EE;25
+Guinea;AF;24
+Kyrgyzstan;EE;24
+Paraguay;AM;24
+Angola;AF;23
+Congo Republic;AF;22
+Democratic Republic of the Congo;AF;22
+Tajikistan;EE;22
+Burundi;AF;21
+Myanmar;AP;21
+Zimbabwe;AF;21
+Cambodia;AP;20
+Eritrea;AF;20
+Venezuela;AM;20
+Chad;AF;19
+Equatorial Guinea;AF;19
+Guinea-Bissau;AF;19
+Haiti;AM;19
+Yemen;ME;18
+Syria;ME;17
+Turkmenistan;EE;17
+Uzbekistan;EE;17
+Iraq;ME;16
+Libya;ME;15
+South Sudan;AF;14
+Sudan;ME;11
+Afghanistan;AP;8
+Korea (North);AP;8
+Somalia;AF;8

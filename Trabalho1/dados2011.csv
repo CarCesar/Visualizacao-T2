@@ -1,0 +1,177 @@
+;country;region;CPI;IDH;ano;Texto;line;continent;sub_region
+0;Afghanistan;Asia & Oceania;1.5;0.477;2011;Afghanistan;line;Asia;Southern Asia
+1;Albania;Eastern & Central Europe;3.1;0.764;2011; ;line;Europe;Southern Europe
+2;Algeria;Middle East & North Africa;2.9;0.728;2011; ;line;Africa;Northern Africa
+3;Angola;Sub-Saharan Africa;2.0;0.533;2011; ;line;Africa;Middle Africa
+4;Argentina;Americas;3.0;0.835;2011;Argentina;line;Americas;South America
+5;Armenia;Eastern & Central Europe;2.6;0.751;2011; ;line;Asia;Western Asia
+6;Australia;Asia & Oceania;8.8;0.932;2011; ;line;Oceania;Australia and New Zealand
+7;Austria;OECD;7.8;0.906;2011; ;line;Europe;Western Europe
+8;Azerbaijan;Eastern & Central Europe;2.4;0.727;2011; ;line;Asia;Western Asia
+9;Bahamas;Americas;7.3;0.805;2011; ;line;Americas;Caribbean
+10;Bahrain;Middle East & North Africa;5.1;0.801;2011; ;line;Asia;Western Asia
+11;Bangladesh;Asia & Oceania;2.7;0.566;2011; ;line;Asia;Southern Asia
+12;Barbados;Americas;7.8;0.799;2011;Barbados;line;Americas;Caribbean
+13;Belarus;Eastern & Central Europe;2.4;0.801;2011; ;line;Europe;Eastern Europe
+14;Belgium;OECD;7.5;0.911;2011; ;line;Europe;Western Europe
+15;Benin;Sub-Saharan Africa;3.0;0.5;2011; ;line;Africa;Western Africa
+16;Bhutan;Asia & Oceania;5.7;0.585;2011;Bhutan;line;Asia;Southern Asia
+17;Bolivia;Americas;2.8;0.671;2011; ;line;Americas;South America
+18;Bosnia and Herzegovina;Eastern & Central Europe;3.2;0.729;2011; ;line;Europe;Southern Europe
+19;Botswana;Sub-Saharan Africa;6.1;0.677;2011; ;line;Africa;Southern Africa
+20;Brazil;Americas;3.8;0.731;2011; ;line;Americas;South America
+21;Brunei;Asia & Oceania;5.2;0.831;2011; ;line;Asia;South-Eastern Asia
+22;Bulgaria;OECD;3.3;0.791;2011; ;line;Europe;Eastern Europe
+23;Burkina Faso;Sub-Saharan Africa;3.0;0.394;2011; ;line;Africa;Western Africa
+24;Burundi;Sub-Saharan Africa;1.9;0.419;2011; ;line;Africa;Eastern Africa
+25;Cambodia;Asia & Oceania;2.1;0.546;2011; ;line;Asia;South-Eastern Asia
+26;Cameroon;Sub-Saharan Africa;2.5;0.514;2011; ;line;Africa;Middle Africa
+27;Canada;Americas;8.7;0.903;2011; ;line;Americas;Northern America
+28;Cape Verde;Sub-Saharan Africa;5.5;0.639;2011;Cape Verde;line;Africa;Western Africa
+29;Central African Republic;Sub-Saharan Africa;2.2;0.374;2011; ;line;Africa;Middle Africa
+30;Chad;Sub-Saharan Africa;2.0;0.38;2011; ;line;Africa;Middle Africa
+31;Chile;Americas;7.2;0.815;2011; ;line;Americas;South America
+32;China;Asia & Oceania;3.6;0.707;2011;China;line;Asia;Eastern Asia
+33;Colombia;Americas;3.4;0.734;2011; ;line;Americas;South America
+34;Comoros;Sub-Saharan Africa;2.4;0.533;2011; ;line;Africa;Eastern Africa
+35;Congo Republic;Sub-Saharan Africa;2.2;0.522;2011; ;line;Africa;Middle Africa
+36;Costa Rica;Americas;4.8;0.778;2011; ;line;Americas;Central America
+37;Côte d´Ivoire;Sub-Saharan Africa;2.2;0.472;2011; ;line;Africa;Western Africa
+38;Croatia;OECD;4.0;0.823;2011; ;line;Europe;Southern Europe
+39;Cuba;Americas;4.2;0.78;2011; ;line;Americas;Caribbean
+40;Cyprus;OECD;6.3;0.86;2011; ;line;Asia;Western Asia
+41;Czech Republic;OECD;4.4;0.874;2011; ;line;Europe;Eastern Europe
+42;Democratic Republic of the Congo;Sub-Saharan Africa;2.0;0.438;2011; ;line;Africa;Middle Africa
+43;Denmark;OECD;9.4;0.93;2011; ;line;Europe;Northern Europe
+44;Djibouti;Sub-Saharan Africa;3.0;0.463;2011; ;line;Africa;Eastern Africa
+45;Dominica;Americas;5.2;0.741;2011; ;line;Americas;Caribbean
+46;Dominican Republic;Americas;2.6;0.71;2011; ;line;Americas;Caribbean
+47;Ecuador;Americas;2.7;0.732;2011; ;line;Americas;South America
+48;Egypt;Middle East & North Africa;2.9;0.671;2011; ;line;Africa;Northern Africa
+49;El Salvador;Americas;3.4;0.664;2011; ;line;Americas;Central America
+50;Equatorial Guinea;Sub-Saharan Africa;1.9;0.58;2011; ;line;Africa;Middle Africa
+51;Eritrea;Sub-Saharan Africa;2.5;0.436;2011; ;line;Africa;Eastern Africa
+52;Estonia;OECD;6.4;0.86;2011; ;line;Europe;Northern Europe
+53;Ethiopia;Sub-Saharan Africa;2.7;0.432;2011; ;line;Africa;Eastern Africa
+54;Finland;OECD;9.4;0.92;2011; ;line;Europe;Northern Europe
+55;France;OECD;7.0;0.882;2011;France;line;Europe;Western Europe
+56;FYR Macedonia;Eastern & Central Europe;3.9;0.747;2011; ;line;Europe;Southern Europe
+57;Gabon;Sub-Saharan Africa;3.0;0.657;2011; ;line;Africa;Middle Africa
+58;Gambia;Sub-Saharan Africa;3.5;0.455;2011; ;line;Africa;Western Africa
+59;Georgia;Eastern & Central Europe;4.1;0.757;2011; ;line;Asia;Western Asia
+60;Germany;OECD;8.0;0.933;2011;Germany;line;Europe;Western Europe
+61;Ghana;Sub-Saharan Africa;3.9;0.574;2011; ;line;Africa;Western Africa
+62;Greece;OECD;3.4;0.862;2011;Greece;line;Europe;Southern Europe
+63;Guatemala;Americas;2.7;0.612;2011; ;line;Americas;Central America
+64;Guinea;Sub-Saharan Africa;2.1;0.429;2011; ;line;Africa;Western Africa
+65;Guinea-Bissau;Sub-Saharan Africa;2.2;0.445;2011; ;line;Africa;Western Africa
+66;Guyana;Americas;2.5;0.658;2011; ;line;Americas;South America
+67;Haiti;Americas;1.8;0.478;2011; ;line;Americas;Caribbean
+68;Honduras;Americas;2.6;0.613;2011; ;line;Americas;Central America
+69;Hungary;OECD;4.6;0.828;2011; ;line;Europe;Eastern Europe
+70;Iceland;OECD;8.3;0.907;2011; ;line;Europe;Northern Europe
+71;India;Asia & Oceania;3.1;0.588;2011;India;line;Asia;Southern Asia
+72;Indonesia;Asia & Oceania;3.0;0.673;2011; ;line;Asia;South-Eastern Asia
+73;Iran;Middle East & North Africa;2.7;0.753;2011; ;line;Asia;Southern Asia
+74;Iraq;Middle East & North Africa;1.8;0.642;2011;Iraq;line;Asia;Western Asia
+75;Ireland;OECD;7.5;0.902;2011; ;line;Europe;Northern Europe
+76;Israel;Middle East & North Africa;5.8;0.901;2011; ;line;Asia;Western Asia
+77;Italy;OECD;3.9;0.883;2011;Italy;line;Europe;Southern Europe
+78;Jamaica;Americas;3.3;0.731;2011; ;line;Americas;Caribbean
+79;Japan;Asia & Oceania;8.0;0.892;2011;Japan;line;Asia;Eastern Asia
+80;Jordan;Middle East & North Africa;4.5;0.734;2011; ;line;Asia;Western Asia
+81;Kazakhstan;Eastern & Central Europe;2.7;0.772;2011; ;line;Asia;Central Asia
+82;Kenya;Sub-Saharan Africa;2.2;0.559;2011; ;line;Africa;Eastern Africa
+83;Kiribati;Asia & Oceania;3.1;0.591;2011; ;line;Oceania;Micronesia
+84;Korea (South);Asia & Oceania;5.4;0.895;2011; ;line;Asia;Eastern Asia
+85;Kuwait;Middle East & North Africa;4.6;0.792;2011; ;line;Asia;Western Asia
+86;Kyrgyzstan;Eastern & Central Europe;2.1;0.664;2011; ;line;Asia;Central Asia
+87;Laos;Asia & Oceania;2.2;0.565;2011; ;line;Asia;South-Eastern Asia
+88;Latvia;OECD;4.2;0.829;2011; ;line;Europe;Northern Europe
+89;Lebanon;Middle East & North Africa;2.5;0.768;2011; ;line;Asia;Western Asia
+90;Lesotho;Sub-Saharan Africa;3.5;0.469;2011; ;line;Africa;Southern Africa
+91;Liberia;Sub-Saharan Africa;3.2;0.472;2011; ;line;Africa;Western Africa
+92;Libya;Middle East & North Africa;2.0;0.764;2011; ;line;Africa;Northern Africa
+93;Lithuania;OECD;4.8;0.838;2011; ;line;Europe;Northern Europe
+94;Luxembourg;OECD;8.5;0.899;2011; ;line;Europe;Western Europe
+95;Madagascar;Sub-Saharan Africa;3.0;0.512;2011; ;line;Africa;Eastern Africa
+96;Malawi;Sub-Saharan Africa;3.0;0.44;2011; ;line;Africa;Eastern Africa
+97;Malaysia;Asia & Oceania;4.3;0.778;2011; ;line;Asia;South-Eastern Asia
+98;Maldives;Asia & Oceania;2.5;0.697;2011; ;line;Asia;Southern Asia
+99;Mali;Sub-Saharan Africa;2.8;0.413;2011; ;line;Africa;Western Africa
+100;Malta;OECD;5.6;0.853;2011; ;line;Europe;Southern Europe
+101;Mauritania;Sub-Saharan Africa;2.4;0.509;2011; ;line;Africa;Western Africa
+102;Mauritius;Sub-Saharan Africa;5.1;0.76;2011; ;line;Africa;Eastern Africa
+103;Mexico;Americas;3.0;0.755;2011; ;line;Americas;Central America
+104;Moldova;Eastern & Central Europe;2.9;0.719;2011;Moldova;line;Europe;Eastern Europe
+105;Mongolia;Asia & Oceania;2.7;0.71;2011; ;line;Asia;Eastern Asia
+106;Montenegro;Eastern & Central Europe;4.0;0.806;2011; ;line;Europe;Southern Europe
+107;Morocco;Middle East & North Africa;3.4;0.626;2011; ;line;Africa;Northern Africa
+108;Mozambique;Sub-Saharan Africa;2.7;0.397;2011; ;line;Africa;Eastern Africa
+109;Myanmar;Asia & Oceania;1.5;0.526;2011; ;line;Asia;South-Eastern Asia
+110;Namibia;Sub-Saharan Africa;4.4;0.602;2011; ;line;Africa;Southern Africa
+111;Nepal;Asia & Oceania;2.2;0.545;2011; ;line;Asia;Southern Asia
+112;Netherlands;OECD;8.9;0.928;2011; ;line;Europe;Western Europe
+113;New Zealand;Asia & Oceania;9.5;0.909;2011; ;line;Oceania;Australia and New Zealand
+114;Nicaragua;Americas;2.5;0.628;2011; ;line;Americas;Central America
+115;Niger;Sub-Saharan Africa;2.5;0.338;2011;Niger;line;Africa;Western Africa
+116;Nigeria;Sub-Saharan Africa;2.4;0.492;2011; ;line;Africa;Western Africa
+117;Norway;OECD;9.0;0.942;2011;Norway;line;Europe;Northern Europe
+118;Oman;Middle East & North Africa;4.8;0.782;2011; ;line;Asia;Western Asia
+119;Pakistan;Asia & Oceania;2.5;0.516;2011; ;line;Asia;Southern Asia
+120;Panama;Americas;3.3;0.78;2011; ;line;Americas;Central America
+121;Papua New Guinea;Asia & Oceania;2.2;0.53;2011; ;line;Oceania;Melanesia
+122;Paraguay;Americas;2.2;0.701;2011; ;line;Americas;South America
+123;Peru;Americas;3.4;0.734;2011; ;line;Americas;South America
+124;Philippines;Asia & Oceania;2.6;0.676;2011; ;line;Asia;South-Eastern Asia
+125;Poland;OECD;5.5;0.845;2011; ;line;Europe;Eastern Europe
+126;Portugal;OECD;6.1;0.833;2011; ;line;Europe;Southern Europe
+127;Qatar;Middle East & North Africa;7.2;0.84;2011; ;line;Asia;Western Asia
+128;Romania;OECD;3.6;0.806;2011;Romania;line;Europe;Eastern Europe
+129;Russia;Eastern & Central Europe;2.4;0.79;2011;Russia;line;Europe;Eastern Europe
+130;Rwanda;Sub-Saharan Africa;5.0;0.5;2011;Rwanda;line;Africa;Eastern Africa
+131;Saint Lucia;Americas;7.0;0.736;2011; ;line;Americas;Caribbean
+132;Saint Vincent and the Grenadines;Americas;5.8;0.721;2011; ;line;Americas;Caribbean
+133;Samoa;Asia & Oceania;3.9;0.701;2011; ;line;Oceania;Polynesia
+134;Sao Tome & Principe;Sub-Saharan Africa;3.0;0.568;2011; ;line;Africa;Middle Africa
+135;Saudi Arabia;Middle East & North Africa;4.4;0.823;2011; ;line;Asia;Western Asia
+136;Senegal;Sub-Saharan Africa;2.9;0.471;2011; ;line;Africa;Western Africa
+137;Serbia;Eastern & Central Europe;3.3;0.776;2011; ;line;Europe;Southern Europe
+138;Seychelles;Sub-Saharan Africa;4.8;0.767;2011; ;line;Africa;Eastern Africa
+139;Sierra Leone;Sub-Saharan Africa;2.5;0.406;2011; ;line;Africa;Western Africa
+140;Singapore;Asia & Oceania;9.2;0.913;2011;Singapore;line;Asia;South-Eastern Asia
+141;Slovakia;OECD;4.0;0.838;2011; ;line;Europe;Eastern Europe
+142;Slovenia;OECD;5.9;0.891;2011; ;line;Europe;Southern Europe
+143;Solomon Islands;Asia & Oceania;2.7;0.541;2011; ;line;Oceania;Melanesia
+144;South Africa;Sub-Saharan Africa;4.1;0.665;2011;South Africa;line;Africa;Southern Africa
+145;Spain;OECD;6.2;0.878;2011;Spain;line;Europe;Southern Europe
+146;Sri Lanka;Asia & Oceania;3.3;0.76;2011; ;line;Asia;Southern Asia
+147;Sudan;Sub-Saharan Africa;1.6;0.474;2011; ;line;Africa;Northern Africa
+148;Suriname;Americas;3.0;0.717;2011; ;line;Americas;South America
+149;Swaziland;Asia & Oceania;3.1;0.524;2011; ;line;Africa;Southern Africa
+150;Sweden;OECD;9.3;0.912;2011; ;line;Europe;Northern Europe
+151;Switzerland;OECD;8.8;0.941;2011; ;line;Europe;Western Europe
+152;Syria;Middle East & North Africa;2.6;0.678;2011; ;line;Asia;Western Asia
+153;Tajikistan;Eastern & Central Europe;2.3;0.636;2011; ;line;Asia;Central Asia
+154;Tanzania;Sub-Saharan Africa;3.0;0.487;2011; ;line;Africa;Eastern Africa
+155;Thailand;Asia & Oceania;3.4;0.733;2011; ;line;Asia;South-Eastern Asia
+156;Timor-Leste;Asia & Oceania;2.4;0.644;2011; ;line;Asia;South-Eastern Asia
+157;Togo;Sub-Saharan Africa;2.4;0.479;2011; ;line;Africa;Western Africa
+158;Tonga;Asia & Oceania;3.1;0.704;2011; ;line;Oceania;Polynesia
+159;Trinidad and Tobago;Americas;3.2;0.782;2011; ;line;Americas;Caribbean
+160;Tunisia;Middle East & North Africa;3.8;0.718;2011; ;line;Africa;Northern Africa
+161;Turkey;Eastern & Central Europe;4.2;0.753;2011; ;line;Asia;Western Asia
+162;Turkmenistan;Eastern & Central Europe;1.6;0.673;2011; ;line;Asia;Central Asia
+163;Uganda;Sub-Saharan Africa;2.4;0.504;2011; ;line;Africa;Eastern Africa
+164;Ukraine;Eastern & Central Europe;2.3;0.76;2011; ;line;Europe;Eastern Europe
+165;United Arab Emirates;Middle East & North Africa;6.8;0.826;2011; ;line;Asia;Western Asia
+166;United Kingdom;OECD;7.8;0.906;2011; ;line;Europe;Northern Europe
+167;United States;Americas;7.1;0.919;2011;United States;line;Americas;Northern America
+168;Uruguay;Americas;7.0;0.789;2011; ;line;Americas;South America
+169;Uzbekistan;Eastern & Central Europe;1.6;0.676;2011; ;line;Asia;Central Asia
+170;Vanuatu;Asia & Oceania;3.5;0.591;2011; ;line;Oceania;Melanesia
+171;Venezuela;Americas;1.9;0.769;2011;Venezuela;line;Americas;South America
+172;Vietnam;Asia & Oceania;2.9;0.671;2011; ;line;Asia;South-Eastern Asia
+173;Yemen;Middle East & North Africa;2.1;0.506;2011; ;line;Asia;Western Asia
+174;Zambia;Sub-Saharan Africa;3.2;0.534;2011; ;line;Africa;Eastern Africa
+175;Zimbabwe;Sub-Saharan Africa;2.2;0.499;2011; ;line;Africa;Eastern Africa

@@ -1,0 +1,169 @@
+﻿country;Country Code;region;CPI
+Denmark;DNK;WE/EU;91
+New Zealand;NZL;AP;91
+Finland;FIN;WE/EU;90
+Sweden;SWE;WE/EU;89
+Norway;NOR;WE/EU;88
+Switzerland;CHE;WE/EU;86
+Luxembourg;LUX;WE/EU;85
+Singapore;SGP;AP;85
+Netherlands;NLD;WE/EU;84
+Canada;CAN;AME;83
+Germany;DEU;WE/EU;81
+United Kingdom;GBR;WE/EU;81
+Australia;AUS;AP;79
+Iceland;ISL;WE/EU;79
+Belgium;BEL;WE/EU;77
+Austria;AUT;WE/EU;76
+United States;USA;AME;76
+Hong Kong;HKG;AP;75
+Ireland;IRL;WE/EU;75
+Japan;JPN;AP;75
+Uruguay;URY;AME;74
+Qatar;QAT;MENA;71
+Chile;CHL;AME;70
+Estonia;EST;WE/EU;70
+France;FRA;WE/EU;70
+United Arab Emirates;ARE;MENA;70
+Bhutan;BTN;AP;65
+Portugal;PRT;WE/EU;64
+Botswana;BWA;SSA;63
+Poland;POL;WE/EU;63
+Taiwan;TWN;AP;62
+Cyprus;CYP;WE/EU;61
+Israel;ISR;MENA;61
+Malta;MLT;WE/EU;60
+Slovenia;SVN;WE/EU;60
+Lithuania;LTU;WE/EU;59
+Spain;ESP;WE/EU;58
+Czech Republic;CZE;WE/EU;56
+Latvia;LVA;WE/EU;56
+Cape Verde;CPV;SSA;55
+Costa Rica;CRI;AME;55
+Seychelles;SYC;SSA;55
+Korea (South);KOR;AP;54
+Rwanda;RWA;SSA;54
+Jordan;JOR;MENA;53
+Mauritius;MUS;SSA;53
+Namibia;NAM;SSA;53
+Georgia;GEO;ECA;52
+Saudi Arabia;SAU;MENA;52
+Bahrain;BHR;MENA;51
+Croatia;HRV;WE/EU;51
+Hungary;HUN;WE/EU;51
+Slovakia;SVK;WE/EU;51
+Malaysia;MYS;AP;50
+Kuwait;KWT;MENA;49
+Cuba;CUB;AME;47
+Ghana;GHA;SSA;47
+Greece;GRC;WE/EU;46
+Romania;ROM;WE/EU;46
+Oman;OMN;MENA;45
+Italy;ITA;WE/EU;44
+Lesotho;LSO;SSA;44
+Montenegro;MON;ECA;44
+Senegal;SEN;SSA;44
+South Africa;ZAF;SSA;44
+Sao Tome and Principe;STP;SSA;42
+The FYR of Macedonia;MKD;ECA;42
+Turkey;TUR;ECA;42
+Bulgaria;BGR;WE/EU;41
+Jamaica;JAM;AME;41
+Serbia;SCG;ECA;40
+El Salvador;SLV;AME;39
+Mongolia;MNG;AP;39
+Panama;PAN;AME;39
+Trinidad and Tobago;TTO;AME;39
+Bosnia and Herzegovina;BIH;ECA;38
+Brazil;BRA;AME;38
+Burkina Faso;BFA;SSA;38
+India;IND;AP;38
+Thailand;THA;AP;38
+Tunisia;TUN;MENA;38
+Zambia;ZMB;SSA;38
+Benin;BEN;SSA;37
+China;CHN;AP;37
+Colombia;COL;AME;37
+Liberia;LBR;SSA;37
+Sri Lanka;LKA;AP;37
+Albania;ALB;ECA;36
+Algeria;DZA;MENA;36
+Egypt;EGY;MENA;36
+Indonesia;IDN;AP;36
+Morocco;MAR;MENA;36
+Peru;PER;AME;36
+Suriname;SUR;AME;36
+Armenia;ARM;ECA;35
+Mali;MLI;SSA;35
+Philippines;PHL;AP;35
+Bolivia;BOL;AME;34
+Djibouti;DJI;SSA;34
+Gabon;GAB;SSA;34
+Niger;NER;SSA;34
+Dominican Republic;DOM;AME;33
+Ethiopia;ETH;SSA;33
+Kosovo;LWI;ECA;33
+Moldova;MDA;ECA;33
+Argentina;ARG;AME;32
+Belarus;BLR;ECA;32
+Côte d´Ivoire;CIV;SSA;32
+Ecuador;ECU;AME;32
+Togo;TGO;SSA;32
+Honduras;HND;AME;31
+Malawi;MWI;SSA;31
+Mauritania;MRT;SSA;31
+Mexico;MEX;AME;31
+Mozambique;MOZ;SSA;31
+Vietnam;VNM;AP;31
+Pakistan;PAK;AP;30
+Tanzania;TZA;SSA;30
+Azerbaijan;AZE;ECA;29
+Guyana;GUY;AME;29
+Russia;RUS;ECA;29
+Sierra Leone;SLE;SSA;29
+Gambia;GMB;SSA;28
+Guatemala;GTM;AME;28
+Kazakhstan;KAZ;ECA;28
+Kyrgyzstan;KGZ;ECA;28
+Lebanon;LBN;MENA;28
+Madagascar;MDG;SSA;28
+Timor-Leste;TLS;AP;28
+Cameroon;CMR;SSA;27
+Iran;IRN;MENA;27
+Nepal;NPL;AP;27
+Nicaragua;NIC;AME;27
+Paraguay;PRY;AME;27
+Ukraine;UKR;ECA;27
+Comoros;COM;SSA;26
+Nigeria;NGA;SSA;26
+Tajikistan;TJK;ECA;26
+Bangladesh;BGD;AP;25
+Guinea;GIN;SSA;25
+Kenya;KEN;SSA;25
+Laos;LAO;AP;25
+Papua New Guinea;PNG;AP;25
+Uganda;UGA;SSA;25
+Central African Republic;CAF;SSA;24
+Congo Republic;COG;SSA;23
+Chad;TCD;SSA;22
+Democratic Republic of the Congo;COD;SSA;22
+Myanmar;MMR;AP;22
+Burundi;BDI;SSA;21
+Cambodia;KHM;AP;21
+Zimbabwe;ZWE;SSA;21
+Uzbekistan;UZB;ECA;19
+Eritrea;ERI;SSA;18
+Syria;SYR;MENA;18
+Turkmenistan;TKM;ECA;18
+Yemen;YEM;MENA;18
+Guinea-Bissau;GNB;SSA;17
+Haiti;HTI;AME;17
+Venezuela;VEN;AME;17
+Iraq;IRQ;MENA;16
+Libya;LBY;MENA;16
+Angola;AGO;SSA;15
+South Sudan;SSD;SSA;15
+Sudan;SDN;MENA;12
+Afghanistan;AFG;AP;11
+Korea (North);PRK;AP;8
+Somalia;SOM;SSA;8
