@@ -13,7 +13,7 @@
 <body>
     <div id = 'app'>
         <h1>Visualização</h1>
-        <a href = 'https://github.com/CarCesar/Visualizacao-T2/tree/master/Trabalho'>Os Codigos<\a>
+        <div><a href = 'https://github.com/CarCesar/Visualizacao-T2/tree/master/Trabalho'> Os Codigos <\a><\div>
         <div id = 'F'>
         <div id ='P'>
         <p>     Para fazer o trabalho foi utilizado Jupyter Notebook, utilizando a biblioteca Altair. Pegando os codigos dos graficos obtidos por lá e fazendo esta pagina, com o intuito de uma melhor exposição das visualizações feitas.<br>Foi escolhida a visualização do site 'The Economist', a visualização foi refeita com as ferramentas e em seguida fizemos algumas releituras com uma dose de interatividade</p></div>
