@@ -1,4 +1,4 @@
-# Releitura do gráfico IDHxGINI, publicado por 'The Economist'
+# Releitura do gráfico IDHxGINI, originalmente por 'The Economist'
 
 Trabalho 2 do curso Visualizacao da Informação do Mestrado em Modelagem Matemática(2021)
 
